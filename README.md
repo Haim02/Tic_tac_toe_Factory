@@ -5,5 +5,6 @@ tic tac toe game that allows you to play against the computer (there are several
 and also to play against a human.
 
 * OOP
-* Using a factory design pattern that is responsible for creating an object
+* Using a factory design pattern that is
+  responsible for creating an object during the compilation
 
